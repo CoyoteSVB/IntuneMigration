@@ -1,4 +1,8 @@
 # IntuneMigration
+
+Script by STEVE WEINER https://www.getrubix.com/
+
+
 Tenant to tenant Microsoft Intune device migration
 As more and more organizations adopt Intune to manage PCs, this was an inevitable scenario.  Companies can split into several companies, business acquire new businesses, organizations divest; all reasons you may need to move a PC to a different tenant.  This isn’t new, as Active Directory domain migrations are a prevalent process.  
 
